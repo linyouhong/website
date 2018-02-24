@@ -37,5 +37,5 @@ weight = 5
 
 ​I obtained my PhD degree in economics from Shanghai University of Finance and Economics in 2016 and continued my academic career in Guangzhou. My current research interests are in the field of development economics, political economics and economic history. 
 
-In recent years, I've attempted to solve the puzzle of ethnic homogeneity of China by looking at geographic and political factors. ​I've also studied the important economic consequence of Qing's policy of bureaucratization of native officials in Southwest China. Disease and Economic Development is also my interested field.
+In recent years, I attempt to solve the puzzle of ethnic homogeneity of China by looking at geographic and political factors. ​I also study the important economic consequence of Qing's policy of bureaucratization of native officials in Southwest China. Disease and Economic Development is also my interested field.
 
